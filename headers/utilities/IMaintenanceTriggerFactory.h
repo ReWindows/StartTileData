@@ -1,0 +1,12 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from StartTileData.dll by Windissect. 1 member(s).
+namespace winrt::Windows::ApplicationModel::Background {
+class IMaintenanceTriggerFactory {
+public:
+    // Category: Dtor | Source: PDB Internal
+    // Symbol: ??1IMaintenanceTriggerFactory@Background@ApplicationModel@Windows@winrt@@QEAA@XZ
+    ~IMaintenanceTriggerFactory();
+};
+} // namespace winrt::Windows::ApplicationModel::Background
